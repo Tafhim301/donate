@@ -1,0 +1,118 @@
+header{
+    background-image: url("images-donate/donation12.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+    text-align: center;
+    
+}
+.header{
+    padding-top: 300px;
+    font-weight: 800;
+    font-size: 70px;
+    color: antiquewhite;
+}
+
+
+
+.p-button{
+    border-radius:none;
+    height: 60px;
+    width: 160px;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: rgb(255, 28, 28);
+    color: antiquewhite;
+    border-radius: 5px;
+
+}
+.site-description{
+    font-size: 30px;
+    font-weight:400;
+    margin-top: 0px;
+    color: antiquewhite;
+}
+.section-title{
+    font-weight: 800;
+    font-size: 70px;
+
+}
+.section-description{
+    font-size: 25px;
+    font-weight:200;
+    margin-top: 0px;
+    color: rgb(98, 93, 93);
+
+}
+.donate-today{
+    padding-top: 0px;
+    text-align: center;
+}
+.amount-btn{
+    height: 120px;
+    width: 120px;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(244, 244, 243);
+    color: grey;
+    margin-right: 30px;
+
+}
+#box{
+    display: inline;
+    margin-top: 40px;
+    text-align: center;
+    box-sizing:inherit;
+    font-size: 25px;
+    font-weight: 500;
+    font-display: block; 
+    border: azure;  
+    list-style: inside; 
+}
+hr{
+    width: 80%;
+    margin-bottom: 30px;
+}
+.section-title{
+    text-align: center;
+}
+.section-description{
+    text-align: center;
+}
+.plans{
+    
+    margin-top: 250px;
+}
+.donate-plan{
+    display:flex;
+    
+    
+    
+}
+.plan-d{
+    text-align: initial;
+}
+.title{
+    text-align: left;
+    font-size: 40px;
+}
+.description{
+    margin-top: 200px;
+    margin-right: 50px;
+    margin-left: 100px;
+}
+.section-description2{
+    font-size: 25px;
+    font-weight:200;
+    margin-top: 0px;
+    color: rgb(98, 93, 93);
+    text-align: left;
+    
+}
+.img{
+    width: 60%;
+    height: 20%;
+}
